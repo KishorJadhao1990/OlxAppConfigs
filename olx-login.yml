@@ -6,7 +6,7 @@ spring:
     driver-class-name: org.postgresql.Driver
     username: postgres
     password: postgres
-    url: jdbc:postgresql://localhost:5432/olxapp-new
+    url: jdbc:postgresql://localhost:5432/olxapp
   jpa:
     show-sql: true
 #---------------------------------
